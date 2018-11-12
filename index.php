@@ -2,6 +2,6 @@
 
 echo "Olá <strong>mundo</strong>!";
 
-echo "Eh para dar zebra.";
+echo "Resolvido o conflito.";
 
 ?>
